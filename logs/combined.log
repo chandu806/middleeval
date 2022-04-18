@@ -1,0 +1,20 @@
+info: Apr-18-2002 21:40:22: This is information log
+error: Apr-18-2002 21:40:22: This is the error log
+warn: Apr-18-2002 21:40:22: This is the warn loginfo: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}
+info: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}
+info: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}
+info: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}
+info: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}
+info: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}
