@@ -18,3 +18,9 @@ warn: $ {[info.timestamp]}: S{info.message}
 info: $ {[info.timestamp]}: S{info.message}
 error: $ {[info.timestamp]}: S{info.message}
 warn: $ {[info.timestamp]}: S{info.message}
+info: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}
+info: $ {[info.timestamp]}: S{info.message}
+error: $ {[info.timestamp]}: S{info.message}
+warn: $ {[info.timestamp]}: S{info.message}

@@ -50,7 +50,9 @@ app.get('/books',
 app.get('/libraries',
 (request, response, next) => {
   console.log("We are in mi");
-  response.send("Success");
+  response.send("Success",
+  "library1",
+  "library2");
   response.json({
     "book1":"library1",
     "book2":"library2"
@@ -59,7 +61,11 @@ app.get('/libraries',
 app.get('/authors',
 (request, response, next) => {
   console.log("We are in mi");
-  response.send("Success");
+  response.send("Success",
+  "Dennisritche",
+  "james"
+
+  );
   response.json({
     "Author1":"Dennisritch",
     "Author2":"james"
